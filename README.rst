@@ -49,7 +49,7 @@ Donate
 ------
 
 The Pallets organization develops and supports MarkupSafe and other
-libraries that use it. In order to grow the community of contributors
+libraries that use it. To grow the community of contributors
 and users, and allow the maintainers to devote more time to the
 projects, `please donate today`_.
 
