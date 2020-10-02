@@ -45,7 +45,7 @@ Examples
     Markup('Hello <em>&#34;World&#34;</em>')
 
 
-Donate
+DONATE
 ------
 
 The Pallets organization develops and supports MarkupSafe and other
